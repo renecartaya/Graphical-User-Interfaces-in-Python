@@ -1,6 +1,6 @@
 # Graphical-User-Interfaces-in-Python
 
-The current repository is aimed to develop the building blocks for Graphical User Interfaces (GUI) in Python.
+The current repository focuses on developing the building blocks for Graphical User Interfaces (GUI) in Python. The GUIs developed here rely entirely on open-source toolkits like Tkinter.
 
 The repository includes tools for interactive applications, for example, for instrumentation applications as shown below.
 
@@ -18,3 +18,8 @@ At the same time, the repository includes style topicas as switch between dark a
 
 Some of the more recent features includes the capability to print automated report by clicling in the GUI and time display in the screen.
 
+![alt text](https://github.com/renecartaya/Graphical-User-Interfaces-in-Python/blob/main/Images/Watch.png)
+
+## References
+
+[1] https://docs.python.org/3/library/tkinter.html
