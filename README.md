@@ -18,7 +18,13 @@ At the same time, the repository includes style topicas as switch between dark a
 
 Some of the more recent features includes the capability to print automated report by clicling in the GUI and time display in the screen.
 
+# Desktop clock windows
+
 ![alt text](https://github.com/renecartaya/Graphical-User-Interfaces-in-Python/blob/main/Images/Watch.png)
+
+# Slider with light alert
+
+![alt text](https://github.com/renecartaya/Graphical-User-Interfaces-in-Python/blob/main/Images/Slider_light-alert.png)
 
 ## References
 
