@@ -24,7 +24,7 @@ Some of the more recent features includes the capability to print automated repo
 
 # Slider with light alert
 
-This is an interactive slider with led light configurable dynamic response in color.
+The repository includes an interactive slider with led light configurable dynamic response in color.
 
 ![alt text](https://github.com/renecartaya/Graphical-User-Interfaces-in-Python/blob/main/Images/Slider_light-alert.png)
 
